@@ -1,4 +1,4 @@
-# Projeto JavaScript
+# Projeto Desafio estagio
 
 Este projeto contém dois arquivos JavaScript principais que requerem Node.js para serem executados corretamente.
 
